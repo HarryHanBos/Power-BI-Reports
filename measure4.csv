@@ -1,0 +1,9 @@
+Portfolio:0,Product Name:0,# Project Key:1,Project Name:2,Last Analysis:3,Jira,Conflunce,Bitbucket,GitHub,Checkmarx,SonarQube,Parasoft,Jenkins,Maven,Jfrog,Selenium,Neoload,Delphix,ServiceNow,Ansible,Azure Devops,Dynatrace,Splunk,CD Readiness
+Customer,CDP,CDP_Data_Pipeline,CDP_Data_Pipeline,5/1/2023,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,0,1,13
+GridStack,GridInit,devportal,devportal,5/26/2023,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18
+EBU,Future Now,oip-backend,oip-backend,5/23/2023,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,6
+EBU,UWP,UWP-frontend,UWP-frontend,5/22/2023,1,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,6
+GridStack,GridAsset,gridAsset-account-link-api,gridAsset-account-link-api,5/25/2023,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,11
+EBU,UWP2,uwp2-BankAccountEventBuilder,uwp2-BankAccountEventBuilder,4/20/2023,1,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,7
+Customer,Grid-Data,Grid-Data-ops-DirectPayEventBuilder,Grid-Data-ops-DirectPayEventBuilder,5/23/2023,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4
+Customer,MBA,MBA-dotnet-apis,MBA-dotnet-apis,5/3/2023,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,5

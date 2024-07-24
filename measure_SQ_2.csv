@@ -1,0 +1,23 @@
+Backend,,
+,[x] Releases,
+,[x] Commits,
+,[x] Repositories,
+,[x] Stargazers,
+,[x] Issues,
+,[x] Organizations,
+,[x] Labels,
+,[x] Milestones,
+,[x] Response Caching,
+,[x] Projects,
+,[ ] Deploys,
+,Pull Requests,
+Frontend,,
+,[x] Visualize queries,
+,[x] Template variables,
+,[x] Annotations,
+Options:,,
+,Setting,Required
+,Access token,TRUE
+,Default Organization,FALSE
+,Default Repository,TRUE
+,GitHub Enterprise URL,FALSE

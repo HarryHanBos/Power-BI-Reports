@@ -1,0 +1,7 @@
+//easyBI access
+https://jira.devops.nationalgrid.com/plugins/servlet/eazybi/accounts/276/export/report/7850-automated-tests.csv
+https://jira.devops.nationalgrid.com/plugins/servlet/eazybi/accounts/276/export/report/7851-tests-to-be-automated.csv
+https://jira.devops.nationalgrid.com/plugins/servlet/eazybi/accounts/276/export/report/7852-list-of-test-executions.csv
+https://jira.devops.nationalgrid.com/plugins/servlet/eazybi/accounts/276/export/report/7853-defects-found-by-automation.csv
+
+//
